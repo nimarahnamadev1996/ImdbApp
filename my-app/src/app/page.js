@@ -3,7 +3,7 @@ import Results from "@/components/Results";
 
 
 
-const API_KEY = process.env.API_KEY
+const API_KEY=ac92900333b05a5a58ce15d3f5553641
 
 
 
